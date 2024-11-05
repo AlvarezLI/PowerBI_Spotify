@@ -11,4 +11,12 @@ El proyecto está organizado en varias carpetas y archivos, los cuales son los s
 
 - **PowerBi--Spotify.pbix:** Este es el archivo principal del proyecto, donde se encuentra el informe completo en Power BI. Contiene todos los análisis, gráficos y visualizaciones creadas para explorar la información de las canciones y artistas más populares.
 
+
+
+## Licencia:
+Este proyecto está bajo la Licencia CC0: Public Domain. El dataset utilizado está disponible en Kaggle y está sujeto a la Licencia de Kaggle, que permite su uso para análisis y aprendizaje, siempre y cuando se cumplan los términos de uso de la plataforma.
+
+
 ### Para más información sobre el dataset utilizado, [haz click aquí](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
+
+
