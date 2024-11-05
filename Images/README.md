@@ -7,7 +7,7 @@ Este proyecto de Power BI permite explorar y analizar información sobre las can
 ### 1. Portada
 Una introducción visual al informe, que incluye el título, una descripción general y un resumen de los contenidos.
 
-![Portada](./Portada.png)
+![Caratula](./Caratula.png)
 
 ### 2. Artistas
 En esta pestaña se analiza el desempeño de los artistas en términos de sus canciones más populares y los streams acumulados.
@@ -30,7 +30,7 @@ Esta pestaña proporciona un análisis detallado de las características de las 
 
 ![Especificaciones de Canciones](./Especificaciones.png)
 
-### 4. Información
+### 4. Streams
 Esta pestaña ofrece un análisis del total de streams y playlists por artista, así como la distribución de estos en diferentes plataformas.
 
 - **Total de Streams por Año:** Gráfico de barras que muestra la cantidad total de streams anuales.
@@ -38,7 +38,7 @@ Esta pestaña ofrece un análisis del total de streams y playlists por artista, 
 - **Total de Playlists:** KPI que muestra el total acumulado de playlists en todas las plataformas analizadas.
 - **% de Playlists en Diferentes Plataformas:** Gráfico que muestra la proporción de playlists en Spotify, Apple Music y Deezer.
 
-![Información](./Informacion.png)
+![Streams](./Streams.png)
 
 ## Tecnologías Utilizadas
 - Power BI
