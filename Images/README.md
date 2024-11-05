@@ -40,7 +40,4 @@ Esta pestaña ofrece un análisis del total de streams y playlists por artista, 
 
 ![Streams](./Streams.png)
 
-## Tecnologías Utilizadas
-- Power BI
-- Datasets de streaming musical
 
